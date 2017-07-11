@@ -12,6 +12,7 @@ user.username: zhangguiming
 user.password: 123456
 user.message: this is development enviroment!
 
+---
 spring: 
     profiles: test
 user.username: test1
