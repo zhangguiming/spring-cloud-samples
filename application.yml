@@ -1,18 +1,18 @@
 
 
-info:
+info: 
     description: Spring Cloud samples!
     url: https://github.com/zhangguiming/spring-cloud-samples.git
 group: test
 message: hello
 
-spring:
+spring: 
     profiles: dev
 user.username: zhangguiming
 user.password: 123456
 user.message: this is development enviroment!
 
-spring:
+spring: 
     profiles: test
 user.username: test1
 user.password: 123456
